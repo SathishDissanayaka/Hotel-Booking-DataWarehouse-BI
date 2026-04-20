@@ -78,11 +78,11 @@ Interactive dashboards include:
 
 ## 📁 Repository Structure
 
-01_Data_Warehouse/
-02_Cube_SSAS/
-03_PowerBI/
-04_Dataset/
-05_Documentation/
+- 01_Data_Warehouse/
+- 02_Cube_SSAS/
+- 03_PowerBI/
+- 04_Dataset/
+- 05_Documentation/
 
 
 ---
