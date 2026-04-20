@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B535845E-8402-C7DF-7B55-2CA7D4AA375A}|HotelBooking_ETL\\HotelBooking_ETL.dtproj|E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\Staging.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{B535845E-8402-C7DF-7B55-2CA7D4AA375A}|HotelBooking_ETL\\HotelBooking_ETL.dtproj|solutionrelative:HotelBooking_ETL\\Staging.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B535845E-8402-C7DF-7B55-2CA7D4AA375A}|HotelBooking_ETL\\HotelBooking_ETL.dtproj|E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\Dimensions.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{B535845E-8402-C7DF-7B55-2CA7D4AA375A}|HotelBooking_ETL\\HotelBooking_ETL.dtproj|solutionrelative:HotelBooking_ETL\\Dimensions.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B535845E-8402-C7DF-7B55-2CA7D4AA375A}|HotelBooking_ETL\\HotelBooking_ETL.dtproj|E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\AccumulatingFact.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{B535845E-8402-C7DF-7B55-2CA7D4AA375A}|HotelBooking_ETL\\HotelBooking_ETL.dtproj|solutionrelative:HotelBooking_ETL\\AccumulatingFact.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B535845E-8402-C7DF-7B55-2CA7D4AA375A}|HotelBooking_ETL\\HotelBooking_ETL.dtproj|E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\data_profile.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{B535845E-8402-C7DF-7B55-2CA7D4AA375A}|HotelBooking_ETL\\HotelBooking_ETL.dtproj|solutionrelative:HotelBooking_ETL\\data_profile.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B535845E-8402-C7DF-7B55-2CA7D4AA375A}|HotelBooking_ETL\\HotelBooking_ETL.dtproj|E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{B535845E-8402-C7DF-7B55-2CA7D4AA375A}|HotelBooking_ETL\\HotelBooking_ETL.dtproj|solutionrelative:HotelBooking_ETL\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B535845E-8402-C7DF-7B55-2CA7D4AA375A}|HotelBooking_ETL\\HotelBooking_ETL.dtproj|E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\Fact.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{B535845E-8402-C7DF-7B55-2CA7D4AA375A}|HotelBooking_ETL\\HotelBooking_ETL.dtproj|solutionrelative:HotelBooking_ETL\\Fact.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Package.dtsx [Design]",
+              "DocumentMoniker": "E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\Package.dtsx",
+              "RelativeDocumentMoniker": "HotelBooking_ETL\\Package.dtsx",
+              "ToolTip": "E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\Package.dtsx [Design]",
+              "RelativeToolTip": "HotelBooking_ETL\\Package.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-04-01T13:53:52.599Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fact.dtsx [Design]",
+              "DocumentMoniker": "E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\Fact.dtsx",
+              "RelativeDocumentMoniker": "HotelBooking_ETL\\Fact.dtsx",
+              "ToolTip": "E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\Fact.dtsx [Design]",
+              "RelativeToolTip": "HotelBooking_ETL\\Fact.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-04-01T13:51:30.403Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccumulatingFact.dtsx [Design]",
+              "DocumentMoniker": "E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\AccumulatingFact.dtsx",
+              "RelativeDocumentMoniker": "HotelBooking_ETL\\AccumulatingFact.dtsx",
+              "ToolTip": "E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\AccumulatingFact.dtsx [Design]",
+              "RelativeToolTip": "HotelBooking_ETL\\AccumulatingFact.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-04-08T19:26:01.516Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dimensions.dtsx [Design]",
+              "DocumentMoniker": "E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\Dimensions.dtsx",
+              "RelativeDocumentMoniker": "HotelBooking_ETL\\Dimensions.dtsx",
+              "ToolTip": "E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\Dimensions.dtsx [Design]",
+              "RelativeToolTip": "HotelBooking_ETL\\Dimensions.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-04-01T13:51:24.528Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "data_profile.dtsx [Design]",
+              "DocumentMoniker": "E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\data_profile.dtsx",
+              "RelativeDocumentMoniker": "HotelBooking_ETL\\data_profile.dtsx",
+              "ToolTip": "E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\data_profile.dtsx [Design]",
+              "RelativeToolTip": "HotelBooking_ETL\\data_profile.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-04-08T19:13:56.658Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Staging.dtsx [Design]",
+              "DocumentMoniker": "E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\Staging.dtsx",
+              "RelativeDocumentMoniker": "HotelBooking_ETL\\Staging.dtsx",
+              "ToolTip": "E:\\University\\3rd Year\\3rd Year 2nd sem\\2026 Things\\DWBI\\Assignment 2\\HotelBooking_ETL\\HotelBooking_ETL\\Staging.dtsx [Design]",
+              "RelativeToolTip": "HotelBooking_ETL\\Staging.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPjVO/S8NAGH2RtvSPaPeSwUVchS6CexYRJCBYUJC6SEFBBIXiIigKEYRSCC4unQTXDsVipkpbUJHSRTQ2/oimNCTnkOTMXdrqg4Pv\u002B\u002B69ly933wkAoFaqBGPQezdx9/CYO9xZOWU2CPF0aqVKXMcZuY7Kl2R6bomsbZ8sMwYAJvjCKOxtraNW1xTe5N8Gm7sHAIBaXVPC9Vg4KZSaNC7KIs0/jQQW5yUAQPn8gnIwrAM7nYGdzjB5cnIGqwuzDC9AxCDebSPebUdyc8DQWPx1Cx\u002BWQzrG722EtZEOeJgDwOgDukUQSyT5bdagUGrSBU6sW4A7ZNwiHQSHGBa/fANvFuDafZ4eNQgOLSx\u002B/gK06xa6dgpZKY\u002BNswbBlELAz0FRFumXjT7Bq\u002BXFpu31XpRFdJ5M3N73sO9rqMGxehWEI5Ci4puWTqsx\u002BK\u002BNnzAeWSlPxWEDgWGNg//PDLSc8AOMxO8cPcnGpQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-04-01T13:51:35.996Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
