@@ -1,15 +1,12 @@
-# Keep your existing rule
 * text=auto
 
-# Ignore HTML files from language stats
+# Ignore HTML completely from stats
 *.html linguist-vendored
 
-# Ignore Power BI files
+# Ignore Power BI / dataset files
 *.pbix linguist-vendored
-
-# Ignore dataset files (optional)
 *.csv linguist-vendored
 *.xlsx linguist-vendored
 
-# Treat SQL properly
+# Force SQL detection
 *.sql linguist-language=SQL
