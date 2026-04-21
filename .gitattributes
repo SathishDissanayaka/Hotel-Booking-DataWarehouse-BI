@@ -1,12 +1,1 @@
 * text=auto
-
-# Ignore HTML completely from stats
-*.html linguist-vendored
-
-# Ignore Power BI / dataset files
-*.pbix linguist-vendored
-*.csv linguist-vendored
-*.xlsx linguist-vendored
-
-# Force SQL detection
-*.sql linguist-language=SQL
