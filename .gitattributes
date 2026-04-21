@@ -1,2 +1,15 @@
-# Auto detect text files and perform LF normalization
+# Keep your existing rule
 * text=auto
+
+# Ignore HTML files from language stats
+*.html linguist-vendored
+
+# Ignore Power BI files
+*.pbix linguist-vendored
+
+# Ignore dataset files (optional)
+*.csv linguist-vendored
+*.xlsx linguist-vendored
+
+# Treat SQL properly
+*.sql linguist-language=SQL
